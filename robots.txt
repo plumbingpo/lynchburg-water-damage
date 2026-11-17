@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lynchburgrestoration.com/sitemap.xml
